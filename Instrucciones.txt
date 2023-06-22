@@ -1,0 +1,3 @@
+Crear proyecto JavaFX / maven / meter tu JDK (en mi caso jvaa 17.0.4)
+
+No meta el JDK de amazon que es una shit.
